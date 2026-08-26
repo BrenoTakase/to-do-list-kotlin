@@ -50,19 +50,25 @@ Ponto de entrada do app. Cria o `TarefaViewModel` usando `viewModel(factory = Ta
 ## Evidências
 
 **Tela inicial com a lista de tarefas**
+
 ![Tela inicial](docs/evidencias/TelaInicial.png)
 
 **Cadastro de uma nova tarefa**
+
 ![Cadastro de tarefa](docs/evidencias/Cadastro.png)
 
 **Tarefa cadastrada aparecendo na lista**
+
 ![Tarefa na lista](docs/evidencias/CadastroNaTelaInicial.png)
 
 **Edição de uma tarefa existente**
+
 ![Edição de tarefa](docs/evidencias/EdicaoCadastro.png)
 
 **Tarefa marcada como concluída**
+
 ![Tarefa concluída](docs/evidencias/TarefaConcluida.png)
 
 **Build do projeto sem erros**
+
 ![Build com sucesso](docs/evidencias/BuildSuccessful.png)
