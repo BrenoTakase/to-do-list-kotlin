@@ -69,6 +69,10 @@ Ponto de entrada do app. Cria o `TarefaViewModel` usando `viewModel(factory = Ta
 
 ![Tarefa concluída](docs/evidencias/TarefaConcluida.png)
 
+**Tarefa Excluída**
+
+![Tarefa excluída](docs/evidencias/TarefaDeletada.png)
+
 **Build do projeto sem erros**
 
 ![Build com sucesso](docs/evidencias/BuildSuccessful.png)
